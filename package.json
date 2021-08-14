@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "@types/react-router-dom": "^5.1.8",
+    "otp-input-react": "^0.2.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-google-login": "^5.2.2",
+    "react-otp-input": "^2.4.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "run": "^1.4.0",
+    "sawo": "^1.0.1",
+    "sawo-react": "^1.0.6",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
